@@ -1,0 +1,10 @@
+{
+  "id": "agents-financial-analysis",
+  "name": "Financial Analysis",
+  "description": "Disciplined financial analysis with dated inputs, transparent calculations, and scenario ranges.",
+  "category": "Finance",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["finance", "modeling", "risk"]
+}

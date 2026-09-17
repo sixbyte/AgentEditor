@@ -1,0 +1,10 @@
+{
+  "id": "agents-security-review",
+  "name": "Secure Engineering Review",
+  "description": "Security-first engineering instructions for trust boundaries, exploitability, and safe verification.",
+  "category": "Security",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["security", "review", "threat-model"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "skill-contract-review",
+  "name": "Contract Review",
+  "description": "Review contract language for obligations, asymmetry, missing protections, ambiguity, and negotiation questions.",
+  "category": "Legal",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["contract", "clauses", "risk"]
+}

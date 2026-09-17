@@ -1,0 +1,9 @@
+{
+  "id": "skill-commit-message",
+  "name": "Commit Message Helper",
+  "description": "Draft concise, conventional commit messages from the current diff.",
+  "category": "Coding",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["git", "commit"]
+}

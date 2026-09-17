@@ -1,0 +1,10 @@
+{
+  "id": "agents-literature-review",
+  "name": "Literature Review",
+  "description": "A reproducible workflow for comparing papers, methods, evidence strength, and open questions.",
+  "category": "Research",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["papers", "literature", "methodology"]
+}

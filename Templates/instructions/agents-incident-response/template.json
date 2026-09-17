@@ -1,0 +1,10 @@
+{
+  "id": "agents-incident-response",
+  "name": "Incident Response",
+  "description": "Evidence-preserving incident response guidance for triage, containment, recovery, and follow-up.",
+  "category": "Security",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["incident", "forensics", "containment"]
+}

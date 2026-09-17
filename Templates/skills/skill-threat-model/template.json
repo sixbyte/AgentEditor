@@ -1,0 +1,9 @@
+{
+  "id": "skill-threat-model",
+  "name": "Threat Model",
+  "description": "Build an evidence-based threat model with assets, boundaries, abuse cases, and prioritized mitigations.",
+  "category": "Security",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["threat-model", "architecture", "security"]
+}

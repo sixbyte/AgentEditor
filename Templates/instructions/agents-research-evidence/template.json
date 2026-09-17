@@ -1,0 +1,10 @@
+{
+  "id": "agents-research-evidence",
+  "name": "Evidence-First Research",
+  "description": "Research guidance for source quality, claim tracing, uncertainty, and concise synthesis.",
+  "category": "Research",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["research", "sources", "evidence"]
+}

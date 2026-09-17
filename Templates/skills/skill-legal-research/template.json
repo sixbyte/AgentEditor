@@ -1,0 +1,9 @@
+{
+  "id": "skill-legal-research",
+  "name": "Legal Research",
+  "description": "Research legal questions with jurisdiction, authority hierarchy, currency checks, and traceable citations.",
+  "category": "Legal",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["law", "research", "citations"]
+}

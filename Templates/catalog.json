@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "description": "Agent instruction, rule, and skill templates managed in this repository.",
+  "categories": {
+    "agent": ["Research", "Coding", "Finance", "Security"],
+    "skill": ["Web Design", "Coding", "Security", "Finance", "Legal"]
+  },
+  "sourceGuides": [
+    "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"
+  ]
+}

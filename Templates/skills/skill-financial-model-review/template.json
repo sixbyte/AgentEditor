@@ -1,0 +1,9 @@
+{
+  "id": "skill-financial-model-review",
+  "name": "Financial Model Review",
+  "description": "Check a financial model for formula integrity, assumption consistency, scenarios, and decision risk.",
+  "category": "Finance",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["finance", "model", "sensitivity"]
+}

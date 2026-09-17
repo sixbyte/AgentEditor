@@ -1,0 +1,9 @@
+{
+  "id": "skill-interface-polish",
+  "name": "Interface Polish",
+  "description": "Refine visual hierarchy, spacing, states, responsiveness, and interaction details without losing product intent.",
+  "category": "Web Design",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["ui", "responsive", "design-system"]
+}

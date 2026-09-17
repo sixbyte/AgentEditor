@@ -1,0 +1,9 @@
+{
+  "id": "skill-instruction-audit",
+  "name": "Instruction Audit",
+  "description": "Review active instruction and skill files for conflicts, stale assumptions, and unnecessary context.",
+  "category": "Coding",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["agents", "skills", "audit", "astra"]
+}

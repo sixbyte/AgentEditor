@@ -1,0 +1,9 @@
+{
+  "id": "skill-pr-description",
+  "name": "PR Description",
+  "description": "Write a clear pull request summary and test plan from branch changes.",
+  "category": "Coding",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["git", "pull-request"]
+}

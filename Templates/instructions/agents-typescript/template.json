@@ -1,0 +1,10 @@
+{
+  "id": "agents-typescript",
+  "name": "TypeScript Project AGENTS.md",
+  "description": "Instructions tailored for TypeScript / Node projects.",
+  "category": "Coding",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["typescript", "node"]
+}

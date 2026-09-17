@@ -1,0 +1,10 @@
+{
+  "id": "agents-investment-research",
+  "name": "Company Research",
+  "description": "Company research instructions covering business quality, filings, catalysts, valuation, and disconfirming evidence.",
+  "category": "Finance",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["company", "filings", "valuation"]
+}

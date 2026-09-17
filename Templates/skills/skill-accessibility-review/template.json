@@ -1,0 +1,9 @@
+{
+  "id": "skill-accessibility-review",
+  "name": "Accessibility Review",
+  "description": "Audit an interface for keyboard, semantics, contrast, motion, and assistive technology support.",
+  "category": "Web Design",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["accessibility", "wcag", "web"]
+}

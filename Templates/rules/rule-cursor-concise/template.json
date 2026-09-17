@@ -1,0 +1,9 @@
+{
+  "id": "rule-cursor-concise",
+  "name": "Cursor Concise Replies",
+  "description": "A simple always-apply Cursor rule for concise agent replies.",
+  "category": "Coding",
+  "kind": "rules",
+  "compatibleHarnesses": ["cursor"],
+  "tags": ["cursor", "style"]
+}

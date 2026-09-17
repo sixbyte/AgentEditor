@@ -1,0 +1,9 @@
+{
+  "id": "skill-code-review",
+  "name": "Code Review",
+  "description": "Structured review focusing on correctness, risk, and maintainability.",
+  "category": "Coding",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["review", "quality"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "agents-basic",
+  "name": "Basic AGENTS.md",
+  "description": "Minimal project instructions covering build, test, and coding conventions.",
+  "category": "Coding",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["starter", "agents"]
+}

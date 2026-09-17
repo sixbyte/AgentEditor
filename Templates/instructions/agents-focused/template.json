@@ -1,0 +1,10 @@
+{
+  "id": "agents-focused",
+  "name": "Focused AGENTS.md",
+  "description": "Lean project guidance with contextual references, decision boundaries, and an explicit completion contract.",
+  "category": "Coding",
+  "kind": "instructions",
+  "targetFileName": "AGENTS.md",
+  "compatibleHarnesses": ["cursor", "codex", "openCode"],
+  "tags": ["agents", "astra", "autonomy", "context"]
+}

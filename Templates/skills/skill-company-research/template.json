@@ -1,0 +1,9 @@
+{
+  "id": "skill-company-research",
+  "name": "Company Research",
+  "description": "Research a company from primary disclosures and organize business, financial, competitive, and risk evidence.",
+  "category": "Finance",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["company", "filings", "finance"]
+}

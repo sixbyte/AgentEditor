@@ -1,0 +1,10 @@
+{
+  "id": "claude-basic",
+  "name": "Basic CLAUDE.md",
+  "description": "Minimal Claude Code project memory file.",
+  "category": "Coding",
+  "kind": "instructions",
+  "targetFileName": "CLAUDE.md",
+  "compatibleHarnesses": ["claude", "cursor"],
+  "tags": ["starter", "claude"]
+}

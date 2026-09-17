@@ -1,0 +1,9 @@
+{
+  "id": "skill-dependency-audit",
+  "name": "Dependency Audit",
+  "description": "Review application dependencies for vulnerable, abandoned, unpinned, or unexpectedly privileged packages.",
+  "category": "Security",
+  "kind": "skills",
+  "compatibleHarnesses": ["cursor", "claude", "codex", "openCode"],
+  "tags": ["dependencies", "supply-chain", "vulnerabilities"]
+}
